@@ -7,7 +7,8 @@ Codex Mate 显示下方信息 <br>
 <img width="500" alt="image png" src="https://github.com/user-attachments/assets/c8415a50-d0af-49c5-b10e-cf5807c9dc58" />
 
 # MacOS 端
-点击右侧链接下载 [Codex Mate v1.0.0]([https://markdown.com.cn](https://github.com/ElvishR/CodexMate/releases/download/CodexMate/Codex.Mate.v1.0.0.dmg))。
+点击右侧链接下载 [Codex Mate v1.0.0](https://github.com/ElvishR/CodexMate/releases/download/CodexMate/Codex.Mate.v1.0.0.dmg)
+
 <img width="3662" height="1093" alt="画板 8" src="https://github.com/user-attachments/assets/7f75caf1-0889-4191-bbba-d07a16087c06" />
 
 
