@@ -8,7 +8,7 @@ MacOS 端
 
 
 iOS 端
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-06-28 at 20 09 29" src="https://github.com/user-attachments/assets/e86b6d45-c3f2-4e91-81c0-f8f936c01182" />
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-06-28 at 20 10 38" src="https://github.com/user-attachments/assets/f6c36337-f2cf-4179-ac2a-6efeab073a87" />
+<img width="320" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-06-28 at 20 09 29" src="https://github.com/user-attachments/assets/e86b6d45-c3f2-4e91-81c0-f8f936c01182" />
+<img width="320" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-06-28 at 20 10 38" src="https://github.com/user-attachments/assets/f6c36337-f2cf-4179-ac2a-6efeab073a87" />
 
 
