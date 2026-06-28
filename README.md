@@ -1,15 +1,13 @@
 # Codex Mate
 Codex Mate 用于显示Codex余量信息，包括5小时、7天余量，统计每天、每周、每月、总计的tokens使用量
 通过iCloudkit同步到iOS端，支持iOS app 和 widget 显示余量。
+<img width="500" alt="image png" src="https://github.com/user-attachments/assets/c8415a50-d0af-49c5-b10e-cf5807c9dc58" />
 
 #MacOS 端
-<img width="500" alt="image png" src="https://github.com/user-attachments/assets/c8415a50-d0af-49c5-b10e-cf5807c9dc58" />
 <img width="150" alt="image png" src="https://github.com/user-attachments/assets/b35428ba-0e34-4414-a255-f62977022aa0" />
 <img width="150"  alt="image png（2）" src="https://github.com/user-attachments/assets/62cc4688-132a-4a99-915e-99ad31fe9fb3" />
 <img width="150" alt="image png（1）" src="https://github.com/user-attachments/assets/a02a16ba-9fe6-4a35-bfb3-f3ad2b74e584" />
 <img width="150" alt="image png（3）" src="https://github.com/user-attachments/assets/ef0293cf-ebbb-4035-99bd-2ce2b446bff5" />
-
-
 
 
 # iOS 端
