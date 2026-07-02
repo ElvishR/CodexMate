@@ -16,10 +16,6 @@
   <img alt="Privacy" src="https://img.shields.io/badge/Privacy-Local%20%2B%20Private%20iCloud-6E7781?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ElvishR/CodexMate/releases"><img alt="Download for macOS" src="https://img.shields.io/badge/Download-macOS%20Release-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
 > [!IMPORTANT]
 > 所有数据仅保存在你的设备本地和你的私人 iCloud 私有数据库中。开发者不读取、不上传、不持有任何使用数据。
 
